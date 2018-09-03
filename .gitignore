@@ -1,0 +1,11 @@
+/Build
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+/Content/StarterContent
+*/desktop.ini
+*.VC.db
+/.vs
+
+desktop.ini
